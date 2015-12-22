@@ -1,0 +1,14 @@
+layout_spectrum: 0.3154122
+color:
+  saturation: 0.1273348
+  brandStrength: 0.9921753
+  lightness: 0.1837356
+  brandColors:
+    - '#000000'
+    - '#FFFFFF'
+    - '#9A90B6'
+    - '#4C4C4D'
+    - '#1C1464'
+  rhythmicContrast: 0.6437625
+typography_spectrum: 0.3727598
+name: GeorgeConnorGolf.com
