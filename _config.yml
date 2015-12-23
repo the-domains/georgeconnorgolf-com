@@ -1,14 +1,26 @@
-layout_spectrum: 0.3154122
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  saturation: 0.1273348
+  saturation: 0.4247312
+  lightness: 0.2078853
   brandStrength: 0.9921753
-  lightness: 0.1837356
   brandColors:
     - '#000000'
     - '#FFFFFF'
     - '#9A90B6'
     - '#4C4C4D'
     - '#1C1464'
-  rhythmicContrast: 0.6437625
+  rhythmicContrast: 0.4713262
 typography_spectrum: 0.3727598
+layout_spectrum: 0.3154122
 name: GeorgeConnorGolf.com
