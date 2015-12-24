@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://connorgolf.com'
-  name: Connorgolf
-  favicon: null
-  domain: connorgolf.com
+inFeed: false
+hasPage: true
+inNav: true
+inLanguage: en
+starred: false
 keywords:
   - clients
   - one-hour
@@ -18,17 +16,21 @@ keywords:
   - lunch
   - reward
 description: 'Are you out of ideas to entertain clients? Do you need a new Team Building program? Do you need a creative way to reward employees? Are you struggling to get face time with potential customers? George Connor, PGA and ConnorGolf can create a fun and informative day for you, your customers or your team.'
-inLanguage: en
+datePublished: '2015-12-24T15:34:05.957Z'
+dateModified: '2015-12-24T15:33:57.406Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'https://connorgolf.com/category/corporate-events/'
 title: 'Corporate Events | ConnorGolf | Professional Golf Insruction by George Connor, PGA'
-datePublished: '2015-12-24T15:23:45.815Z'
-dateModified: '2015-12-24T15:21:13.600Z'
 sourcePath: _posts/2015-12-24-corporate-events-or-connorgolf-or-professional-golf-insruction.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Connorgolf
+  domain: connorgolf.com
+  url: 'https://connorgolf.com'
+  favicon: null
+url: corporate-events-or-connorgolf-or-professional-golf-insruction/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
